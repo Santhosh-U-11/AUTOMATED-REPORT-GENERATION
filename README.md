@@ -74,3 +74,4 @@ Can be scaled or reused for different data sets.
 
 Useful in real-world internship or job projects.
 # output
+![Image](https://github.com/user-attachments/assets/5dc567bb-234c-49c0-aaf4-d5d150c99c95)
